@@ -99,7 +99,7 @@ Analysis carried out requires the use of functions not included in the basic R i
 
 Both R and Bioconductor are open source free software.
 
-Code for running the statistical analysis can be downloaded from [GitHub](https://github.com/), a website that provides hosting for software development version control using Git. The url for the repository is: [https://github.com/ricardtorralba/torralba_gombau_ADO_PEC1.git](https://github.com/ricardtorralba/torralba_gombau_ADO_PEC1.git). 
+Code for running the statistical analysis can be downloaded from [GitHub](https://github.com/), a website that provides hosting for software development version control using Git. The url for the repository is: [https://github.com/ricardtorralba/torralba_gombau_ADO_PEC1.git](https://github.com/ricardtorralba/torralba_gombau_ADO_PEC1.git). File containing R code is named `torralba_ricard_ADO_PEC1.R`.
 
 ## Data
 
